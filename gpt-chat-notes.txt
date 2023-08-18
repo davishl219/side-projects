@@ -1,0 +1,21 @@
+import GPT4ALL
+
+model = ???
+	orcamini3b neural network?
+	huggingface.co/models
+
+prompt = 
+output = 
+print
+
+
+
+
+
+prompt is the api call
+output is the model.generate(prompt, max.....)
+
+
+
+
+python, Flask, Vue.js, Bootstrap
